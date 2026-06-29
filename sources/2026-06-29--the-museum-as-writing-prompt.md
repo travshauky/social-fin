@@ -1,10 +1,13 @@
 ---
-description: A practical guide to using museum visits as a generative writing practice — with exercises, tips, and a reading list.
-date: 2026-01-30
-image: "[[photo6.png]]"
-authors:
-  - elena-voss
+title: The Museum as Writing Prompt
+source_url: local
+source_type: article
+captured: 2026-06-29
+tags: [museum, prompt, writing-practice, creative-practice]
 ---
+
+# The Museum as Writing Prompt
+
 # The Museum as Writing Prompt
 
 I write best after looking at art. Not immediately — there's usually a delay, an incubation period where the images settle into some deeper layer of attention. But the connection is reliable. A good hour in a gallery produces a good week of writing.

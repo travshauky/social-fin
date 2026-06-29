@@ -1,11 +1,13 @@
 ---
-description: How landscape functions as metaphor in both poetry and painting — from the Romantics to contemporary land art.
-date: 2026-02-22
-image: "[[photo4.jpg]]"
-authors:
-  - sana-hayashi
-  - marcus-okafor
+title: Landscape as Metaphor
+source_url: local
+source_type: article
+captured: 2026-06-29
+tags: [landscape, metaphor, poetry, art]
 ---
+
+# Landscape as Metaphor
+
 # Landscape as Metaphor
 
 No one looks at a landscape innocently. We bring our interior weather to every horizon. A field at dusk can be peaceful or desolate depending on what we carry into it. This is why landscape has been, for centuries, one of art's most enduring metaphors.

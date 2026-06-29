@@ -56,6 +56,15 @@ Schema lives in [[CLAUDE]]. Privacy policy in [[Hi Shauky]]. Chronological event
 - [[time-value-of-money-islamic-finance]] — Islamic Finance view on TVM as asset-linked pricing rather than debt-based interest
 - [[vindates]] — additions to the karpathy substrate sourced from Internet Vin
 - [[wakalah-bi-istithmar]] — investment agency contract; foundational to Islamic banking
+- [[color-theory-for-poets]] — Painterly craft terms applied to poetry and sound.
+- [[ekphrasis]] — The tradition of writing poems about visual art and the creative methods to do it well.
+- [[haiku-and-negative-space]] — Minimalism, silence, and reader participation in haiku and art.
+- [[landscape-as-metaphor]] — Landscape as a figure for inner life, cultural history, and the tension between beauty and violence.
+- [[revision-as-sculpting]] — Revision is a subtractive process like sculpture: remove everything that is not the poem.
+- [[museum-as-writing-prompt]] — Using museum visits as a structured writing prompt practice.
+- [[practice-of-paying-attention]] — Attention is the foundational practice behind art and writing; it can be trained like a muscle.
+- [[sketchbook-habit]] — A daily sketchbook practice frees the writer from self-editing and deepens visual observation.
+- [[weight-of-a-single-line]] — A single poetic line carries compressed meaning and works like a brushstroke or film edit.
 
 ## Projects
 - [[ai-secure-browser]] — local-first, security-first desktop browser shell built with Tauri 2
@@ -94,9 +103,13 @@ Schema lives in [[CLAUDE]]. Privacy policy in [[Hi Shauky]]. Chronological event
 - [[2026-06-28--tafakkur-islamic-thinking]] — Comprehensive treatment of Tafakkur as thinking practice
 - [[2026-06-28--miniature-guide-critical-thinking]] — Paul & Elder's toolkit guide to CT concepts and standards
 - [[2026-06-28--miniature-guide-critical-thinking-pdf]] — PDF version of Paul-Elder Miniature Guide
-- [[2026-06-28--quranic-thinking-ch3]] — Chapter on Qur'anic terms for thinking and their intellectual impacts
-- [[2026-06-28--islamic-perspectives-critical-thinking]] — Course material on Islamic perspective on CT
-- [[2026-06-28--quiz-intellectual-standards]] — Paul-Elder standards quiz for assessment
-- [[2026-06-28--tafakkur-islamic-thinking]] — Comprehensive treatment of Tafakkur as Islamic thinking practice
-- [[2026-06-28--miniature-guide-critical-thinking]] — Paul & Elder's toolkit guide to CT concepts and standards
-- [[2026-06-28--miniature-guide-critical-thinking-pdf]] — PDF version of Paul-Elder Miniature Guide
+- [[2026-06-29--color-theory-for-poets]] — Color theory analogies for poetic craft and sound.
+- [[2026-06-29--ekphrasis-writing-about-paintings]] — Ekphrastic practice: poems in conversation with visual art.
+- [[2026-06-29--haiku-and-negative-space]] — Minimalism and negative space in haiku and visual composition.
+- [[2026-06-29--landscape-as-metaphor]] — Landscape as metaphor for emotion, memory, and cultural history.
+- [[2026-06-29--on-revision-as-sculpting]] — Revision as sculpting: subtractive editing to reveal the poem.
+- [[2026-06-29--the-museum-as-writing-prompt]] — Museum visits as a source of generative writing prompts.
+- [[2026-06-29--the-practice-of-paying-attention]] — Training attention as the foundation of art and writing.
+- [[2026-06-29--the-sketchbook-habit]] — Daily sketchbooking to loosen perfectionism and deepen observation.
+- [[2026-06-29--the-weight-of-a-single-line]] — The compression and resonance of a single poetic line.
+

@@ -1,10 +1,13 @@
 ---
-description: How keeping a daily sketchbook changed my writing practice — and why every poet should carry a pencil alongside their pen.
-date: 2025-12-14
-image: "[[photo8.jpg]]"
-authors:
-  - sana-hayashi
+title: The Sketchbook Habit
+source_url: local
+source_type: article
+captured: 2026-06-29
+tags: [sketchbook, practice, observation, writing]
 ---
+
+# The Sketchbook Habit
+
 # The Sketchbook Habit
 
 Three years ago, I started carrying a sketchbook. I am not a visual artist. My drawings look like they were made by a confident child — bold, inaccurate, and strangely alive. That is exactly why the practice works.

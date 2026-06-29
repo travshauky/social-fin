@@ -1,10 +1,13 @@
 ---
-description: Why a single line of poetry can carry more weight than an entire novel — and what that tells us about compression in art.
-date: 2025-11-02
-image: "[[photo9.jpg]]"
-authors:
-  - elena-voss
+title: The Weight of a Single Line
+source_url: local
+source_type: article
+captured: 2026-06-29
+tags: [poetry, compression, craft, line]
 ---
+
+# The Weight of a Single Line
+
 # The Weight of a Single Line
 
 There is a line by Wislawa Szymborska — "I prefer the absurdity of writing poems to the absurdity of not writing poems" — that stopped me mid-step on a Tuesday morning. I was walking to get coffee. The line arrived uninvited, as the best ones do.

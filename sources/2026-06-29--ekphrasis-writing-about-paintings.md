@@ -1,11 +1,13 @@
 ---
-description: The ancient tradition of writing poems about visual art — from Homer's shield to contemporary gallery poems — and how to try it yourself.
-date: 2025-12-01
-image: "[[photo2.png]]"
-authors:
-  - elena-voss
-  - sana-hayashi
+title: Ekphrasis
+source_url: local
+source_type: article
+captured: 2026-06-29
+tags: [ekphrasis, poetry, visual-art, craft]
 ---
+
+# Ekphrasis
+
 # Ekphrasis: Writing About Paintings
 
 The word _ekphrasis_ comes from Greek: _ek_ (out) and phrazein (to speak). To speak out. To give voice to something silent. For thousands of years, writers have stood before visual art and tried to translate what they see into words.

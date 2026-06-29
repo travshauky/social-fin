@@ -1,10 +1,13 @@
 ---
-description: Exploring the surprising parallels between how painters use color and how poets use sound — and what each discipline can steal from the other.
-date: 2025-11-15
-image: "[[photo1.jpg]]"
-authors:
-  - marcus-okafor
+title: Color Theory for Poets
+source_url: local
+source_type: article
+captured: 2026-06-29
+tags: [poetry, art, color-theory, craft]
 ---
+
+# Color Theory for Poets
+
 # Color Theory for Poets
 
 I spent a semester in art school before dropping out to study literature. That semester gave me something no writing workshop ever did: a vocabulary for talking about contrast, temperature, and saturation — words that apply to poems as naturally as they apply to paintings.

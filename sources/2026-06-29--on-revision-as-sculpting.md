@@ -1,10 +1,12 @@
 ---
-description: Revision is not fixing mistakes — it is discovering what the poem was trying to become. Lessons from sculpture applied to the editing desk.
-date: 2026-01-05
-image: "[[photo5.png]]"
-authors:
-  - marcus-okafor
+title: Revision as Sculpting
+source_url: local
+source_type: article
+captured: 2026-06-29
+tags: [revision, poetry, craft, editing]
 ---
+
+# Revision as Sculpting
 
 # On Revision as Sculpting
 

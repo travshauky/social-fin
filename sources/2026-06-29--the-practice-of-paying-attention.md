@@ -1,12 +1,13 @@
 ---
-description: Attention is the beginning of all art. A meditation on how poets and painters train themselves to notice what others walk past.
-date: 2026-03-04
-image: "[[photo7.jpg]]"
-authors:
-  - elena-voss
-  - sana-hayashi
-  - marcus-okafor
+title: The Practice of Paying Attention
+source_url: local
+source_type: article
+captured: 2026-06-29
+tags: [attention, observation, art, writing]
 ---
+
+# The Practice of Paying Attention
+
 # The Practice of Paying Attention
 
 Mary Oliver said, "Attention is the beginning of devotion." She was talking about poetry, but she could have been talking about any art form. Before the brush touches canvas, before the pen touches paper, there is the act of noticing — sustained, patient, deliberate attention to the world as it actually is.
