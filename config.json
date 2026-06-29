@@ -1,8 +1,8 @@
 {
-  "logo": "🌸",
+  "logo": "",
   "favicon": "🌸",
   "showSidebar": false,
-  "title": "Art & Poetry Blog",
+  "title": "Finance and Code",
   "nav": {
     "links": [
       {
@@ -24,6 +24,6 @@
     }
   ],
   "theme": {
-    "theme": "lessflowery"
+    "theme": "letterpress"
   }
 }
