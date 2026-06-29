@@ -1,0 +1,29 @@
+{
+  "logo": "🌸",
+  "favicon": "🌸",
+  "showSidebar": false,
+  "title": "Art & Poetry Blog",
+  "nav": {
+    "links": [
+      {
+        "href": "#",
+        "name": "About"
+      }
+    ]
+  },
+  "social": [
+    {
+      "label": "x",
+      "href": "#",
+      "name": "X"
+    },
+    {
+      "label": "substack",
+      "href": "#",
+      "name": "Substack"
+    }
+  ],
+  "theme": {
+    "theme": "lessflowery"
+  }
+}
