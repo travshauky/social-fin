@@ -10,7 +10,7 @@ updated: 2026-05-19
 
 # Quran References
 
-This document connects all Quran-related sources and verses for easier cross-reference within the vault. Quran gets its own special treatment under same rules  as set at [[Hi Shauky]]
+This document connects all Quran-related sources and verses for easier cross-reference within the vault. Quran gets its own special treatment under the same vault rules.
 
 ## Connections
 - [[2026-05-19--what-is-dhul-hijjah.md]] – Dhul-Hijjah as mentioned in Surah At-Tawbah.

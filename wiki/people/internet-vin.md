@@ -27,7 +27,6 @@ On Greg Eisenberg's podcast (from [[2026-05-19--internet-vin-obsidian-claude]]) 
 - [[obsidian-cli]] — the tool that makes his workflow possible
 - [[thinking-partner-pattern]] — his framing as a stance
 - [[slash-commands]] — the command surface he built
-- [[Hi Shauky]] — privacy implications he raises directly
 
 ## Open questions
 - Other Vin material worth ingesting? (His YouTube and X are referenced in the show notes.)

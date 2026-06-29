@@ -30,7 +30,7 @@ Vin proposes ideas this vault already implements via karpathy; these are not dup
 - Wiki interlinking / graph
 - Source-of-truth context files passed to agents
 - Lint-style orphan / dead-end detection (already in [[CLAUDE]] §3.3)
-- Privacy weight of agent access (already in [[Hi Shauky]])
+- Privacy weight of agent access is part of the vault's governance notes
 
 ## Resolved tensions
 

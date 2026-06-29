@@ -12,7 +12,7 @@ tags: [vault, commands, claude-code, vin]
 **Reusable, named prompts stored in `.claude/commands/*.md` that Claude Code surfaces as `/<name>` in any session opened inside this vault.**
 
 ## Summary
-A [[vindates|Vindate]] from [[internet-vin]]. Each command is a tightly-scoped prompt that knows the vault layout (`sources/`, `wiki/`, `daily/`, `attachments/`), the schema in [[CLAUDE]], and the privacy policy in [[Hi Shauky]]. Commands codify Vin's reflective workflow into one-keystroke entry points.
+A [[vindates|Vindate]] from [[internet-vin]]. Each command is a tightly-scoped prompt that knows the vault layout (`sources/`, `wiki/`, `daily/`, `attachments/`), the schema in [[CLAUDE]], and the vault's privacy boundaries. Commands codify Vin's reflective workflow into one-keystroke entry points.
 
 ## Installed commands (v1, 2026-05-19)
 
@@ -37,7 +37,7 @@ A [[vindates|Vindate]] from [[internet-vin]]. Each command is a tightly-scoped p
 ## Authoring rules
 - Commands live in `.claude/commands/<name>.md`.
 - Frontmatter must include `description:`.
-- Commands must honor [[Hi Shauky]] before any external send.
+- Commands must honor the vault's privacy boundaries before any external send.
 - Commands must respect the [[vindates|human-only-in-daily]] rule: never write to `daily/`.
 - Commands SHOULD respect the karpathy rule for `wiki/`: write only after a clear synthesis is warranted, never speculative drafts.
 

@@ -17,7 +17,7 @@ A [[vindates|Vindate]] from [[internet-vin]]. Daily notes are where raw thought,
 ## Conventions
 - **Path**: `daily/YYYY-MM-DD.md` (one file per day).
 - **Frontmatter**: `date`, optional `domain` (if "day per domain" is adopted), optional `tags`.
-- **Visibility**: defaults to `public` per [[Hi Shauky]] v2; flip to `private` when needed.
+- **Visibility**: defaults to `public`; flip to `private` when needed.
 - **Anatomy** (suggested, not enforced):
   - `## Capture` — raw thought, observations, links.
   - `## Hypotheses` — half-formed ideas with `confidence:` markers.

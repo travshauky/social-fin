@@ -10,7 +10,7 @@ tags: [ai, forecasting, ai-safety, tracking, private]
 
 # AI Watch
 
-🔒 **Private** — see [[Hi Shauky]] §5. Do not share scoring, commentary, or summaries externally without explicit per-request approval.
+🔒 **Private** — do not share scoring, commentary, or summaries externally without explicit per-request approval.
 
 **Personal project to score published AI forecasts against unfolding reality on a regular cadence.**
 
@@ -29,10 +29,9 @@ Decide cadence (weekly? monthly?) and pick the first 2–3 forecasts to track. T
 - [[ai-2027-scenario]] — 2025-04-03 publication; tracking against the month-by-month timeline.
 
 ## Why this is private
-Per [[Hi Shauky]] §5: personal forecasting commentary and scoring are kept internal. Public AI prediction is a noisy space; my track record is not for public consumption and any half-formed take here should not leak.
+Personal forecasting commentary and scoring are kept internal. Public AI prediction is a noisy space; my track record is not for public consumption and any half-formed take here should not leak.
 
 ## Related
-- [[Hi Shauky]] — privacy basis for this page
 - [[ai-2027-scenario]] — primary tracked forecast
 - [[ai-forecasting]] — the broader topic
 - [[ai-safety]] — the framing concern
