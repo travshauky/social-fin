@@ -14,6 +14,7 @@ tags: [ekphrasis, poetry, visual-art, craft]
 ## Summary
 The tradition of writing poems about visual art and the creative methods to do it well.
 
+![[photo6.png|300]]
 ## Key points
 - Ekphrasis brings time into the stillness of a painting. ([[2026-06-29--ekphrasis-writing-about-paintings]] )
 - The practice begins with careful description and often diverges from the artwork. ([[2026-06-29--ekphrasis-writing-about-paintings]] )
