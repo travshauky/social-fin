@@ -5,6 +5,8 @@ image: "[[elena.jpg]]"
 showComments: false
 ---
 
-![[shaukath.jpg|300]](assets/shaukath.jpg)
+![[shaukath.jpg|300]]
 
-Finance student and architectural designer and draughtsman. Shaukath writes about financial topics and quirks of Maldives culture. Between the both of which he has little time otherwise. Its a wonder he gets anything else done. 
+Architectural designer, draughtsman and student of Islamic Finance. Shaukath writes about money-matters and observed quirks in Maldives culture. Between designing homes, and designing and publishing content online, he has little time otherwise. Its a wonder he gets anything  done at all. 
+
+[[index]]

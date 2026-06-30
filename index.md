@@ -66,6 +66,8 @@ Schema lives in [[CLAUDE]]. Privacy policy in [[Hi Shauky]]. Chronological event
 - [[sketchbook-habit]] — A daily sketchbook practice frees the writer from self-editing and deepens visual observation.
 - [[weight-of-a-single-line]] — A single poetic line carries compressed meaning and works like a brushstroke or film edit.
 
+- [[takaful]] — Mutual Shariah-compliant insurance; claims, AAOIFI vs IFRS
+
 ## Projects
 - [[ai-secure-browser]] — local-first, security-first desktop browser shell built with Tauri 2
 - [[ai-watch]] 🔒 — scoring published AI forecasts against unfolding reality (private; see [[Hi Shauky]])
@@ -112,4 +114,6 @@ Schema lives in [[CLAUDE]]. Privacy policy in [[Hi Shauky]]. Chronological event
 - [[2026-06-29--the-practice-of-paying-attention]] — Training attention as the foundation of art and writing.
 - [[2026-06-29--the-sketchbook-habit]] — Daily sketchbooking to loosen perfectionism and deepen observation.
 - [[2026-06-29--the-weight-of-a-single-line]] — The compression and resonance of a single poetic line.
+ - [[2026-06-29--the-weight-of-a-single-line]] — The compression and resonance of a single poetic line.
+ - [[2026-06-30--takaful-notebook]] — NotebookLM clipping on Takaful: AAOIFI, claims, family vs general
 
